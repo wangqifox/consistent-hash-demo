@@ -1,1 +1,1 @@
-# consistent-normalHash-demo
+# consistent-hash-demo
